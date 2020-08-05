@@ -4,7 +4,7 @@ Diogo Santana de Carvalho
 <h1 align="center">
     <img src="https://images2.imgbox.com/7c/82/ADR3x8b2_o.jpg" width="250">
 </h1>
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDhiCarvalho85)
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDhiCarvalho85)](https://twitter.com/DhiCarvalho85)
 
 ### 📑 Sobre:
 
