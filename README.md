@@ -38,6 +38,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 - [Foodfy](https://github.com/Dhi-Carvalho/Foodfy)
 - [Rocketseat-Launchbase](https://github.com/Dhi-Carvalho/Rocketseat-Launchbase)
 - [Personal Page](https://github.com/Dhi-Carvalho/PersonalPage)
+- [NLW#2](https://github.com/Dhi-Carvalho/NLW2)
 
 ### 🚀 Projetos concluídos:
 
