@@ -5,10 +5,12 @@ Diogo Santana de Carvalho
     <img src="https://images2.imgbox.com/7c/82/ADR3x8b2_o.jpg" width="250">
 </h1>
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDhiCarvalho85)
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhi-carvalho/)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhi.carvalho85@gmail.com)
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Dhi-Carvalho)
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhi.carvalho85@gmail.com" alt="Email Dhi Carvalho"/>
+<img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Dhi-Carvalho" alt="Github Dhi Carvalho"/>
+<img src="https://komarev.com/ghpvc/?username=Dhi-Carvalho" alt="Dhi Carvalho" /> </p>
+</p>
 
 ### 👦 Sobre:
 
@@ -44,4 +46,12 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 
 - [NLW](https://github.com/Dhi-Carvalho/nlw)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhi-Carvalho&show_icons=true" alt="Dhi-Carvalho" /> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dhi-Carvalho&show_icons=true" alt="Dhi-Carvalho" />
+</p>
+
+<p align="center">
+<a href="https://twitter.com/DhiCarvalho85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter Dhi Carvalho" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/dhi-carvalho/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin Dhi Carvalho" height="35" width="35" /></a>
+<a href="https://www.instagram.com/dhicarvalho85/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram Dhi Carvalho" height="35" width="35" /></a>
+</p>
