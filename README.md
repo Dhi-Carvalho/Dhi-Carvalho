@@ -40,11 +40,13 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 - [Foodfy](https://github.com/Dhi-Carvalho/Foodfy)
 - [Rocketseat-Launchbase](https://github.com/Dhi-Carvalho/Rocketseat-Launchbase)
 - [Personal Page](https://github.com/Dhi-Carvalho/PersonalPage)
-- [NLW#2](https://github.com/Dhi-Carvalho/NLW2)
+- [Academy Control](https://github.com/Dhi-Carvalho/academycontrol)
+- [Free Code Camp](https://github.com/Dhi-Carvalho/freeCodeCamp)
 
 ### 🚀 Projetos concluídos:
 
 - [NLW](https://github.com/Dhi-Carvalho/nlw)
+- [NLW#2](https://github.com/Dhi-Carvalho/NLW2)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dhi-Carvalho&show_icons=true" alt="Dhi-Carvalho" />
