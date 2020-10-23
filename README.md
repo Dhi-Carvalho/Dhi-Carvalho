@@ -42,6 +42,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 - [Personal Page](https://github.com/Dhi-Carvalho/PersonalPage)
 - [Academy Control](https://github.com/Dhi-Carvalho/academycontrol)
 - [Free Code Camp](https://github.com/Dhi-Carvalho/freeCodeCamp)
+- [NLW#3 - Discovery](https://github.com/Dhi-Carvalho/NLW3_Discovery)
 
 ### 🚀 Projetos concluídos:
 
