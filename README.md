@@ -46,7 +46,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 
 ### 🚀 Projetos concluídos:
 
-- [NLW](https://github.com/Dhi-Carvalho/nlw)
+- [NLW#1 - Ecoleta](https://github.com/Dhi-Carvalho/NLW1-Ecoleta)
 - [NLW#2](https://github.com/Dhi-Carvalho/NLW2)
 
 <p align="center">
