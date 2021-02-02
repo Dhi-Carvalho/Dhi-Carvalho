@@ -37,7 +37,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 
 ### 🔨 Projetos em Desenvolvimento:
 
-- [NLW#2 - Proffy](https://github.com/Dhi-Carvalho/NLW2)
+- [Maratona Discovery](https://github.com/Dhi-Carvalho/Maratona_Discovery)
 
 ### 🚀 Projetos concluídos:
 
