@@ -37,11 +37,12 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 
 ### 🔨 Projetos em Desenvolvimento:
 
-- [Maratona Discovery](https://github.com/Dhi-Carvalho/Maratona_Discovery)
+
 
 ### 🚀 Projetos concluídos:
 
 - [NLW#1 - Ecoleta](https://github.com/Dhi-Carvalho/NLW1-Ecoleta)
+- [Maratona Discovery](https://github.com/Dhi-Carvalho/Maratona_Discovery)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dhi-Carvalho&show_icons=true" alt="Dhi-Carvalho" />
