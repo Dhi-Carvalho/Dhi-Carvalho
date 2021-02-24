@@ -38,6 +38,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 ### 🔨 Projetos em Desenvolvimento:
 
 - [NLW#2 - Proffy](https://github.com/Dhi-Carvalho/NLW2-Proffy)
+- [NLW#4 - Rocketpay](https://github.com/Dhi-Carvalho/NLW4_Elixir)
 
 ### 🚀 Projetos concluídos:
 
