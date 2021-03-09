@@ -37,6 +37,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 
 ### 🔨 Projetos em Desenvolvimento:
 
+- [NLW#3 Discover - Happy](https://github.com/Dhi-Carvalho/NLW3-Happy)
 - [NLW#4 - Rocketpay](https://github.com/Dhi-Carvalho/NLW4_Elixir)
 
 ### 🚀 Projetos concluídos:
