@@ -35,6 +35,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 - SQL
 - GO
 
+### 🔨 Bootcamps:
+
+- LaunchBase
+- Ignite - Trilha NodeJS
+
 ### 🔨 Projetos em Desenvolvimento:
 
 - [NLW#4 - Rocketpay](https://github.com/Dhi-Carvalho/NLW4_Elixir)
