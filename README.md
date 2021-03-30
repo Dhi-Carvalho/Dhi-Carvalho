@@ -38,7 +38,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 ### 🔨 Projetos em Desenvolvimento:
 
 - [NLW#4 - Rocketpay](https://github.com/Dhi-Carvalho/NLW4_Elixir)
-- [Ignite - Trilha NodeJS](https://github.com/Dhi-Carvalho/Ignite-Trilha_NodeJS)
+- [Ignite - Trilha NodeJS](https://github.com/Dhi-Carvalho/Ignite)
 
 ### 🚀 Projetos concluídos:
 
