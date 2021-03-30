@@ -37,8 +37,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 
 ### 🔨 Bootcamps:
 
-- LaunchBase
-- Ignite - Trilha NodeJS
+- **LaunchBase**
+- **Ignite - Trilha NodeJS**
 
 ### 🔨 Projetos em Desenvolvimento:
 
