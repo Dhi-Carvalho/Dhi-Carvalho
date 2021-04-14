@@ -43,7 +43,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 ### 🔨 Projetos em Desenvolvimento:
 
 - [NLW#4 - Rocketpay](https://github.com/Dhi-Carvalho/NLW4_Elixir)
-- [Maratona Discovery II](https://github.com/Dhi-Carvalho/Maratona_Discovery_II)
 
 ### 🚀 Projetos concluídos:
 
@@ -51,6 +50,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 - [NLW#2 - Proffy](https://github.com/Dhi-Carvalho/NLW2-Proffy)
 - [NLW#3 Discover - Happy](https://github.com/Dhi-Carvalho/NLW3-Happy)
 - [Maratona Discovery](https://github.com/Dhi-Carvalho/Maratona_Discovery)
+- [Maratona Discovery II](https://github.com/Dhi-Carvalho/Maratona_Discovery_II)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dhi-Carvalho&show_icons=true" alt="Dhi-Carvalho" />
