@@ -43,7 +43,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 ### 🔨 Projetos em Desenvolvimento:
 
 - [NLW#4 - Rocketpay](https://github.com/Dhi-Carvalho/NLW4_Elixir)
-- [NLW#5 - Trilha Flutter (DevQuiz](https://github.com/Dhi-Carvalho/NLW5-Trilha_Flutter)
+- [NLW#5 - Trilha Flutter (DevQuiz)](https://github.com/Dhi-Carvalho/NLW5-Trilha_Flutter)
 
 ### 🚀 Projetos concluídos:
 
