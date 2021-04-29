@@ -43,7 +43,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 ### 🔨 Projetos em Desenvolvimento:
 
 - [NLW#4 - Rocketpay](https://github.com/Dhi-Carvalho/NLW4_Elixir)
-- [NLW#5 - Trilha React Native (PlantManager)](https://github.com/Dhi-Carvalho/)
+- [NLW#5 - Trilha React Native (PlantManager)](https://github.com/Dhi-Carvalho/NLW5-Trilha_ReactNative-PlantManager)
 
 ### 🚀 Projetos concluídos:
 
