@@ -43,7 +43,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 ### 🔨 Projetos em Desenvolvimento:
 
 - [NLW#4 - Rocketpay](https://github.com/Dhi-Carvalho/NLW4_Elixir)
-- [NLW#5 - Trilha React Native (PlantManager)](https://github.com/Dhi-Carvalho/NLW5-Trilha_ReactNative-PlantManager)
 
 ### 🚀 Projetos concluídos:
 
@@ -51,6 +50,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 - [NLW#2 - Proffy](https://github.com/Dhi-Carvalho/NLW2-Proffy)
 - [NLW#3 Discover - Happy](https://github.com/Dhi-Carvalho/NLW3-Happy)
 - [NLW#5 - Trilha Flutter (DevQuiz)](https://github.com/Dhi-Carvalho/NLW5-Trilha_Flutter)
+- [NLW#5 - Trilha React Native (PlantManager)](https://github.com/Dhi-Carvalho/NLW5-Trilha_ReactNative-PlantManager)
 - [Maratona Discovery](https://github.com/Dhi-Carvalho/Maratona_Discovery)
 - [Maratona Discovery II](https://github.com/Dhi-Carvalho/Maratona_Discovery_II)
 
