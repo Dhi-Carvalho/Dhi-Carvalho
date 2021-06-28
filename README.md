@@ -53,7 +53,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 - [NLW#4 - Trilha NodeJS](https://github.com/Dhi-Carvalho/NLW4-Trilha_NodeJS)
 - [NLW#5 - Trilha Flutter (DevQuiz)](https://github.com/Dhi-Carvalho/NLW5-Trilha_Flutter)
 - [NLW#5 - Trilha React Native (PlantManager)](https://github.com/Dhi-Carvalho/NLW5-Trilha_ReactNative-PlantManager)
-- [NLW Together - Trilha Origin](https://github.com/Dhi-Carvalho/beautysaloon)
+- [NLW Together - Mission: Origin](https://github.com/Dhi-Carvalho/beautysaloon)
 - [Maratona Discovery](https://github.com/Dhi-Carvalho/Maratona_Discovery)
 - [Maratona Discovery II](https://github.com/Dhi-Carvalho/Maratona_Discovery_II)
 
