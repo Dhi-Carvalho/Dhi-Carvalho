@@ -43,7 +43,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 ### 🔨 Projetos em Desenvolvimento:
 
 - [NLW#4 - Rocketpay](https://github.com/Dhi-Carvalho/NLW4_Elixir)
-- [Multi-Stack - e-diaristas (Back-End | Django e Python)](https://github.com/Dhi-Carvalho/Multi-stack_e-diaristas)
+- [Multi-Stack - e-diaristas (Back-End | Django e Python)](https://github.com/Dhi-Carvalho/ediaristas_python)
 
 ### 🚀 Projetos concluídos:
 
