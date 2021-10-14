@@ -43,7 +43,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 ### 🔨 Projetos em Desenvolvimento:
 
 - [NLW#4 - Rocketpay](https://github.com/Dhi-Carvalho/NLW4_Elixir)
-- [Multi-Stack - e-diaristas (Back-End | Django e Python)](https://github.com/Dhi-Carvalho/ediaristas_python)
 
 ### 🚀 Projetos concluídos:
 
@@ -58,6 +57,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, no m
 - [Maratona Discovery](https://github.com/Dhi-Carvalho/Maratona_Discovery)
 - [Maratona Discovery II](https://github.com/Dhi-Carvalho/Maratona_Discovery_II)
 - [Multi-Stack - e-diaristas (Front-End)](https://github.com/Dhi-Carvalho/Multi-stack_e-diaristas)
+- [Multi-Stack - e-diaristas (Back-End | Django e Python)](https://github.com/Dhi-Carvalho/ediaristas_python)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dhi-Carvalho&show_icons=true" alt="Dhi-Carvalho" />
